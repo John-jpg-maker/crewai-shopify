@@ -1,0 +1,9 @@
+.venv/ 
+__pycache__/ 
+*.pyd 
+*.log 
+".venu/" 
+"*.pyd" 
+"*.exe" 
+"*.so" 
+"*.dll" 
